@@ -67,7 +67,7 @@ Step 1. Create a test sub-task for the development task
 2. Open the **Task** inside the Epic
 3. Select **More**
 4. Select **Create Sub-task** and name it, for example:
-`TC for ABC-TaskNumber Feature Development'
+`TC for ABC-TaskNumber Feature Development'`
 
 Step 2. Create a test case in the Test Repository
 1. Go to **Test Repository**
