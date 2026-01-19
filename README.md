@@ -12,9 +12,9 @@ The documentation includes the following instructions:
 
 - **How to create Manual Test cases**
 
-- **How to review Test cases**
+- **How to review Manual Test cases**
 
-- **How to execute Test cases**
+- **How to execute Manual Test cases**
 
 - **How to create bug reports** *(planned)*
 
@@ -28,3 +28,4 @@ The repository is organized into separate folders for each type of instruction
 - [How to create Manual test cases](create_manual_tests.md)
 - [How to review Manual test cases](review_tests.md)
 - [How to execute Manual test cases](execute_manual_tests.md)
+- [How to create Bug report](create_bug_report.md)
