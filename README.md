@@ -16,7 +16,7 @@ The documentation includes the following instructions:
 
 - **How to execute Manual Test cases**
 
-- **How to create bug reports** *(planned)*
+- **How to create bug reports**  
 
 - **How to maintain and update test documentation** *(planned)*
 
