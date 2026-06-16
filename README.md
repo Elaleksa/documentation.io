@@ -16,11 +16,7 @@ The documentation includes the following instructions:
 
 - **How to execute Manual Test cases**
 
-- **How to create bug reports**  
-
-- **How to maintain and update test documentation** *(planned)*
-
-- **Examples and templates** *(planned)*  
+- **How to create bug reports**   
 
 ## 🧱 Structure
 The repository is organized into separate folders for each type of instruction
